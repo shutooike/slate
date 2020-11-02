@@ -30,6 +30,7 @@ This example API documentation page was created with [Slate](https://github.com/
 # Test
 
 This is a test.
+aaaaaaaaa.
 
 ```ruby
 str = 'This is a test'
